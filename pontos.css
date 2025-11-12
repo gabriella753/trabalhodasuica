@@ -60,7 +60,7 @@ h2{
 }
 
 p{
-    color:black;
+    color:#333333;
     font-size: 18px;
     line-height: 1.8;
     text-align: justify;
@@ -107,4 +107,9 @@ img {
 
 .menu a:houver{
     text-decoration: underline;
+}
+
+
+h1{
+    color:#fff5E1;
 }
