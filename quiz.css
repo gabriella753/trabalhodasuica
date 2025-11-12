@@ -5,7 +5,7 @@ body {
     background-image: url('d56e61e4083073ca7221bb1502773bc0.jpg');
     background-size: cover;
     background-position: center;
-    font-family: Condensed;
+    font-family: nunito;
     padding-top: 90px;
     position: relative;
     z-index: 0;
@@ -52,7 +52,7 @@ body::before {
     margin-right:20px;
 }
 
-h1,h2{
+h1{
     text-align:center;
     color:white;
     text-shadow:1px 1px 6px black;
@@ -100,3 +100,10 @@ button:hover{
     margin-top:20px;
 }
 
+p{
+    color:#333333;
+}
+
+h2{
+    color:#F2F2F2;
+}

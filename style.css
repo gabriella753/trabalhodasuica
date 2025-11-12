@@ -1,7 +1,7 @@
 *
 body{
     margin: 0;
-    font-family:Condensed;
+    font-family:nunito;
 }
 
 .topo{
@@ -47,8 +47,9 @@ body{
 }
 
 
-h2,h3{
+h2{
     text-align: center;
+    color: #333333;
 }
 
 ul{
@@ -88,4 +89,8 @@ ul{
 
 .menu a:houver{
     text-decoration: underline;
+}
+
+p{
+    color:#333333;
 }

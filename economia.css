@@ -5,7 +5,7 @@ body{
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
-    font-family: Condensed;
+    font-family: nunito;
     padding-top: 85px;
 }
 
@@ -85,5 +85,9 @@ h1{
 }
 
 h2{
-    color: white;
+    color: #f2d2f2
+}
+
+p{
+    color: #333333;
 }
