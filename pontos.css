@@ -41,7 +41,7 @@ body::before{
 }
 
 h2{
-    color: white;
+    color: #f2f2f2;
     margin-bottom: 12px;
     text-align: center;
 }
@@ -60,7 +60,7 @@ h2{
 }
 
 p{
-    color:white;
+    color:black;
     font-size: 18px;
     line-height: 1.8;
     text-align: justify;
